@@ -1,0 +1,30 @@
+{
+    "name": "iron-rest",
+    "version": "1.0.0",
+    "private": true,
+    "authors": [
+        "Valentin Degenne <v.degenne@gmail.com>"
+    ],
+    "keywords": [
+        "web-components",
+        "web-component",
+        "polymer"
+    ],
+    "main": [
+        "iron-rest.html",
+        "iron-request.html"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/iron-rest.git"
+    },
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        ".",
+        "test",
+        "tests"
+    ]
+}
